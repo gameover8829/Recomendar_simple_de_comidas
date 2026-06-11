@@ -1,0 +1,101 @@
+nombre,ingredientes,tiempo_estimado,tipo
+quesadilla de pollo,"queso, tortilla, pollo",10 minutos,Desayuno
+quesadilla de panza,"queso, tortilla, panza",10 minutos,Desayuno
+quesadilla de huevo,"queso, tortilla, huevo",10 minutos,Desayuno
+quesadilla de sesos,"queso, tortilla, sesos",10 minutos,Desayuno
+quesadilla de sesos,"queso, tortilla, sesos",10 minutos,Desayuno
+quesadilla de chicharrón,"queso, tortilla, chicharrón",10 minutos,Desayuno
+quesadilla de flor de calabaza,"queso, tortilla, flor de calabaza",10 minutos,Desayuno
+quesadilla de huitlacoche,"queso, tortilla, huitlacoche",10 minutos,Desayuno
+quesadilla de requesón,"queso, tortilla, requesón",10 minutos,Desayuno
+quesadilla de champiñón,"queso, tortilla, champiñón",10 minutos,Desayuno
+quesadilla de espinaca,"queso, tortilla, espinaca",10 minutos,Desayuno
+torta de jamón,"pan, jamón, queso, lechuga, jitomate",7 minutos,Desayuno
+torta de pollo,"pan, pollo, queso, lechuga, jitomate",7 minutos,Desayuno
+torta de huevo,"pan, huevo, queso, lechuga, jitomate",7 minutos,Desayuno
+torta de chicharrón,"pan, chicharrón, queso, lechuga, jitomate",7 minutos,Desayuno
+torta de salchicha,"pan, salchicha, queso, lechuga, jitomate",7 minutos,Desayuno
+torta de jamón con huevo,"pan, jamón, huevo, queso, lechuga, jitomate",10 minutos,Desayuno
+omelette de verduras,"huevo, jitomate, cebolla, espinaca, queso",15 minutos,Desayuno
+avena con plátano,"avena, leche, plátano, canela",8 minutos,Desayuno
+molletes sencillos,"bolillo, frijoles, queso, pico de gallo",15 minutos,Desayuno
+hot cakes,"harina, huevo, leche, azúcar, mantequilla",20 minutos,Desayuno
+sandwich de jamón,"pan, jamón, queso, lechuga, jitomate",7 minutos,Desayuno
+chilaquiles verdes,"totopos, salsa verde, crema, queso, pollo",20 minutos,Desayuno
+tostadas de aguacate,"pan, aguacate, huevo, sal, limón",10 minutos,Desayuno
+yogur con fruta,"yogur, fresa, plátano, granola, miel",5 minutos,Desayuno
+tacos de frijol,"tortilla, frijoles, queso, salsa",10 minutos,Desayuno
+pollo con arroz,"pollo, arroz, zanahoria, chícharo, ajo",35 minutos,Comida
+pasta con atún,"pasta, atún, mayonesa, elote, crema",20 minutos,Comida
+sopa de verduras,"zanahoria, papa, calabaza, jitomate, cebolla",30 minutos,Comida
+tacos de pollo,"tortilla, pollo, cebolla, cilantro, salsa",20 minutos,Comida
+ensalada de atún,"atún, lechuga, jitomate, pepino, limón",12 minutos,Comida
+arroz frito con huevo,"arroz, huevo, zanahoria, cebolla, salsa de soya",18 minutos,Comida
+fajitas de pollo,"pollo, pimiento, cebolla, tortilla, queso",25 minutos,Comida
+enchiladas sencillas,"tortilla, pollo, salsa roja, crema, queso",30 minutos,Comida
+hamburguesa casera,"pan, carne, queso, lechuga, jitomate",25 minutos,Comida
+tortitas de papa,"papa, huevo, pan molido, queso, aceite",30 minutos,Comida
+sincronizada,"tortilla de harina, jamón, queso",8 minutos,Cena
+ensalada de pollo,"pollo, lechuga, jitomate, aguacate, limón",15 minutos,Cena
+sopa instantánea mejorada,"sopa instantánea, huevo, verduras, limón",10 minutos,Cena
+quesadillas de champiñón,"tortilla, queso, champiñones, cebolla",12 minutos,Cena
+tostadas de pollo,"tostada, pollo, crema, lechuga, salsa",15 minutos,Cena
+wrap de verduras,"tortilla de harina, lechuga, zanahoria, pepino, aderezo",10 minutos,Cena
+pan tostado con queso,"pan, queso, mantequilla, orégano",8 minutos,Cena
+tacos de huevo,"tortilla, huevo, salsa, queso",10 minutos,Cena
+palomitas caseras,"maíz palomero, aceite, sal",8 minutos,Snack
+fruta con yogur,"manzana, plátano, yogur, miel",5 minutos,Snack
+nachos con queso,"totopos, queso, jalapeño, salsa",10 minutos,Snack
+sandwich de crema de cacahuate,"pan, crema de cacahuate, plátano",5 minutos,Snack
+galletas con leche,"galletas, leche",3 minutos,Snack
+pepino con limón,"pepino, limón, sal, chile",5 minutos,Snack
+manzana con crema de cacahuate,"manzana, crema de cacahuate, canela",5 minutos,Snack
+tamales verdes,"masa, pollo, salsa verde, hoja de maíz",60 minutos,Comida
+tamales de rajas,"masa, queso, rajas de jalapeño, hoja de maíz",60 minutos,Comida
+tamales dulces,"masa, pasas, colorante rosa, azúcar, hoja de maíz",60 minutos,Desayuno
+tacos al pastor,"tortilla, carne de cerdo, piña, cilantro, cebolla",30 minutos,Cena
+gringas al pastor,"tortilla de harina, carne al pastor, queso, piña",15 minutos,Cena
+enfrijoladas,"tortilla, frijoles, queso, crema, cebolla",20 minutos,Desayuno
+entomatadas,"tortilla, salsa de tomate, queso, crema, pollo",20 minutos,Desayuno
+chilaquiles rojos,"totopos, salsa roja, crema, queso, cebolla",20 minutos,Desayuno
+huevos a la mexicana,"huevo, jitomate, cebolla, chile serrano",10 minutos,Desayuno
+huevos rancheros,"huevo, tortilla, salsa roja, frijoles",15 minutos,Desayuno
+huevos con jamón,"huevo, jamón, aceite",8 minutos,Desayuno
+huevos con salchicha,"huevo, salchicha, aceite",8 minutos,Desayuno
+huevos con chorizo,"huevo, chorizo, cebolla",12 minutos,Desayuno
+licuado de plátano,"leche, plátano, azúcar, canela",5 minutos,Desayuno
+licuado de fresa,"leche, fresas, azúcar",5 minutos,Desayuno
+jugo verde,"naranja, apio, nopal, piña",10 minutos,Desayuno
+caldo de pollo,"pollo, zanahoria, papa, chayote, arroz",45 minutos,Comida
+caldo de res,"carne de res, elote, papa, zanahoria, calabaza",60 minutos,Comida
+milanesa de pollo,"pollo, pan molido, huevo, aceite",25 minutos,Comida
+milanesa de res,"carne de res, pan molido, huevo, aceite",25 minutos,Comida
+pechuga a la plancha,"pechuga de pollo, sal, pimienta, limón",15 minutos,Comida
+picadillo,"carne molida, zanahoria, papa, jitomate, chícharos",35 minutos,Comida
+chiles rellenos,"chile poblano, queso, huevo, harina, aceite",50 minutos,Comida
+albóndigas en chipotle,"carne molida, arroz, huevo, chipotle, jitomate",40 minutos,Comida
+pozole rojo,"maíz pozolero, carne de cerdo, chile guajillo, rábano, lechuga",90 minutos,Comida
+tostadas de pata,"tostada, pata de res, frijoles, lechuga, crema",15 minutos,Comida
+tostadas de tinga,"tostada, pollo, cebolla, chipotle, crema",20 minutos,Comida
+tinga de pollo,"pollo deshebrado, cebolla, jitomate, chipotle",30 minutos,Comida
+pambazos,"pan, papa, chorizo, salsa guajillo, lechuga, crema",40 minutos,Comida
+sopes sencillos,"masa, frijoles, salsa, queso, cebolla",25 minutos,Cena
+gorditas de chicharrón,"masa, chicharrón prensado, cebolla, cilantro, salsa",30 minutos,Cena
+huaraches,"masa, frijoles, bistec, salsa, queso",30 minutos,Cena
+flautas de pollo,"tortilla, pollo, aceite, lechuga, crema, queso",25 minutos,Comida
+tacos dorados de papa,"tortilla, papa, aceite, col, crema, salsa",25 minutos,Comida
+burritos de carne,"tortilla de harina, carne, frijoles, arroz, queso",20 minutos,Cena
+burritos de pollo,"tortilla de harina, pollo, frijoles, queso, aguacate",20 minutos,Cena
+pizza en sartén,"harina, salsa de tomate, queso, pepperoni",30 minutos,Cena
+hot dog,"pan, salchicha, mayonesa, cátsup, mostaza",10 minutos,Cena
+banderillas,"salchicha, harina para hot cakes, aceite, cátsup",20 minutos,Snack
+esquites,"elote desgranado, mayonesa, queso, chile, limón",20 minutos,Snack
+elote preparado,"elote entero, mayonesa, queso, chile, limón",15 minutos,Snack
+papas fritas caseras,"papa, aceite, sal",20 minutos,Snack
+papas gajo,"papa, aceite, sal, paprika",25 minutos,Snack
+churros caseros,"harina, agua, azúcar, canela, aceite",35 minutos,Snack
+gelatina de agua,"polvo para gelatina, agua",10 minutos,Snack
+gelatina de leche,"polvo para gelatina, leche",10 minutos,Snack
+arroz con leche,"arroz, leche, azúcar, canela, pasas",40 minutos,Snack
+fresas con crema,"fresas, crema, azúcar, vainilla",10 minutos,Snack
+jicaletas,"jícama, chamoy, chile en polvo, palito de madera",5 minutos,Snack
